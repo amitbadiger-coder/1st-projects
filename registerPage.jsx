@@ -1,5 +1,9 @@
 //RESTER PAGE
 //builded using an the react, react-bootstrap and etc
+//packages need to install
+//1)npm i bootstrap react-bootstrap
+//2)npm i axios
+
 
 
 
